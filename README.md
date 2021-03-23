@@ -82,13 +82,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-# Contacts <a name="contacts"></a>
-
-| Vitor Garcia                                     |
-| :----------------------------------------------- |
-| [![LinkedIn][linkedin-shield]][linkedin-url]     |
-| [![Portfolio][portfolio-shield]][portfolio-url]  | 
-| [![GitHub][github-shield]][github-url]           |
 # Roadmap <a name="roadmap"></a>
 
 See the [![Issues][issues-shield]][issues-url]  for a list of proposed features (and known issues).
@@ -100,6 +93,14 @@ If so, list tasks / features that still need to be implemented in your applicati
 :memo: To Do 1 
 
 - Implement the basics concepts of PowerShell
+
+# Contacts <a name="contacts"></a>
+
+| Vitor Garcia                                     |
+| :----------------------------------------------- |
+| [![LinkedIn][linkedin-shield]][linkedin-url]     |
+| [![Portfolio][portfolio-shield]][portfolio-url]  | 
+| [![GitHub][github-shield]][github-url]           |
 
 # License <a name="License"></a>
 
@@ -156,5 +157,5 @@ https://unsplash.com/
 [issues-shield]: https://img.shields.io/badge/link-issues-green.svg
 [issues-url]: https://github.com/vitorstabile/powershell-basics/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
-[license-url]: https://github.com/vitorstabile/powershell-basics/blob/main/LICENSE.txt
+[license-url]: https://github.com/vitorstabile/powershell-basics/blob/master/LICENSE.txt
 [pdf-url]: https://github.com/vitorstabile/powershell-basics/blob/master/PowerShell%20-%20Notes%20For%20Professionals.pdf
